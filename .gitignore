@@ -1,2 +1,5 @@
-Scratch File.ipynb
-.ipynb_checkpoints/Scratch File-checkpoint.ipynb
+Scratch.ipynb
+.ipynb_checkpoints/
+catboost_info/
+logs.log
+main.py
